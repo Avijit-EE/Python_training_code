@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avijit-EE/Python_training_code/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Avijit-EE/Python_training_code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Avijit-EE/Python_training_code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Avijit-EE/Python_training_code/tree/master/0242-valid-anagram) |
 ## String
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Avijit-EE/Python_training_code/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Avijit-EE/Python_training_code/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Avijit-EE/Python_training_code/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
