@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Avijit-EE/Python_training_code/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Avijit-EE/Python_training_code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Avijit-EE/Python_training_code/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Avijit-EE/Python_training_code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Avijit-EE/Python_training_code/tree/master/0242-valid-anagram) |
 ## String
@@ -70,8 +71,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Avijit-EE/Python_training_code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Avijit-EE/Python_training_code/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Avijit-EE/Python_training_code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Avijit-EE/Python_training_code/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
