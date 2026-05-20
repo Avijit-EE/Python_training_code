@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avijit-EE/Python_training_code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Avijit-EE/Python_training_code/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Avijit-EE/Python_training_code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Avijit-EE/Python_training_code/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Avijit-EE/Python_training_code/tree/master/0169-majority-element) |
@@ -76,10 +77,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Avijit-EE/Python_training_code/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Avijit-EE/Python_training_code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Avijit-EE/Python_training_code/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Avijit-EE/Python_training_code/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Avijit-EE/Python_training_code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
