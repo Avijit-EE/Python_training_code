@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Avijit-EE/Python_training_code/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Avijit-EE/Python_training_code/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Avijit-EE/Python_training_code/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Avijit-EE/Python_training_code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
